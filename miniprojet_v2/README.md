@@ -10,7 +10,7 @@
 - tests unitaires JUnit
 - compatibilité GitHub via `.gitignore`
 
-## Corrections apportées
+## Nouveaux
 
 ### 1. Gestion plus réaliste du pilote
 
@@ -43,7 +43,7 @@ Si un vol est complet :
 ## Structure
 
 ```text
-airline-v2-corrige/
+airline-v2/
 ├─ .gitignore
 ├─ pom.xml
 ├─ README.md
