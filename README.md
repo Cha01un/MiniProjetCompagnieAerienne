@@ -1,7 +1,7 @@
 # Projet compagnie aérienne - V2
 
 Corentin BRIAND G2 -- Travail individuel
-
+https://github.com/Cha01un/MiniProjetCompagnieAerienne
 
 ## Ce qui a été conservé de la V1
 
