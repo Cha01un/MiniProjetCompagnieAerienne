@@ -1,5 +1,7 @@
 # Projet compagnie aérienne - V2
 
+Corentin BRIAND G2 -- Travail individuel
+
 
 ## Ce qui a été conservé de la V1
 
